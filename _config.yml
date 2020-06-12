@@ -33,10 +33,9 @@ header_feature_image: assets/img/Banner_vides.jpeg
 footer_text: <a href="mailto:info@labeling.cl">info@labeling.cl</a> 
 
 
-theme: type-on-strap
+remote_theme: sylhare/Type-on-Strap
 
-minima:
-  skin: dark
+
   
 plugins:
   - jekyll-feed

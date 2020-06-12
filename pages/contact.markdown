@@ -25,7 +25,7 @@ bootstrap: true
   </div>
   <div class="row">
     <div class="col"></div>
-    <div class="col align-self-center">
+    <div class="col-1 align-self-center">
       <button type="submit" class="button btn-secondary rounded ">Enviar</button>
     </div>
     <div class="col"></div>

@@ -21,17 +21,33 @@
 title: Labeling.cl
 email: info@labeling.cl
 description: >- # this means to ignore newlines until "baseurl:"
-  Labeling.cl optimiza la producción de etiquetas disminuyendo los costos
-   para el productor y los riesgos para el consumidor
+  Las etiquetas que necesitas, cuando las necesitas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://parluciaga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+avatar: assets/img/logo250.png
+favicon: assets/favicon.png
 
-# Build settings
-theme: jekyll-theme-cayman
+# Header and footer text
+header_text: Labeling In Plant Solutions  # Change Blog header text
+header_feature_image: assets/img/Banner_vides.jpeg
+footer_text: <a href="mailto:info@labeling.cl">info@labeling.cl</a> 
+
+
+theme: type-on-strap
+
+minima:
+  skin: dark
+  
 plugins:
   - jekyll-feed
+
+katex: false
+  
+paginate: 5
+paginate_path: "/blog/page:num"
+
+# Github pages stuff
+repository: parluciaga.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,0 +1,10 @@
+---
+layout: page
+title: Quienes Somos
+permalink: /about/
+feature-img: "assets/img/banner_campina.jpeg"
+---
+
+Labeling in Plant Solutions aplica tecnología para acortar los plazos de producción de etiquetas.Integrando equipos y desarrollando software para optimizar los flujos de producción. <br/> Trabajamos en conjunto con <a href="https://amfetiquetas.cl" target="_blank">AMF Etiquetas</a> para habilitar operaciones de personalización de etiquetas en las plantas de embotellado de nuestros clientes, o en sitios cercanos a ellas. 
+De esta forma los clientes pueden recibir sus etiquetas en el plazo requerido, y sólo compran las cantidades que requieren.
+
